@@ -1,0 +1,10 @@
+/* rojo con RGBA */
+p:nth-child(1) {
+  background-color: rgba(255,0,0);
+}
+
+/* rojo con opacidad */
+p:nth-child(2) {
+  background-color: rgb(0,0,255);
+  opacity: 0.5;
+}
